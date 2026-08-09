@@ -86,6 +86,6 @@
 
 <p align="center">
   <strong><a href="https://ashwin-siva.vercel.app">Portfolio</a></strong> &nbsp;·&nbsp;
-  <strong><a href="https://www.linkedin.com/in/ashwin-siva-ab5217377/">LinkedIn</a></strong> &nbsp;·&nbsp;
+  <strong><a href="https://www.linkedin.com/in/ashwinsiva08/">LinkedIn</a></strong> &nbsp;·&nbsp;
   <strong><a href="https://leetcode.com/u/ASHWIN878/">LeetCode</a></strong>
 </p>
