@@ -35,12 +35,13 @@
   <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="Databases" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" /> &nbsp;
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
 </p>
 
 <h4 align="center">Tools & Platforms</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,linux,postman&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,linux,postman,vscode,visualstudio&theme=dark" alt="Tools" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger" />
