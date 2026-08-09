@@ -14,16 +14,44 @@
 
 <h3 align="center">🛠️ Tech Stack</h3>
 
+<h4 align="center">Languages</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,postgres,mysql,js,html,css,git,linux,arduino,raspberrypi&theme=dark" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,java,python,js,html,css&theme=dark" alt="Languages" />
 </p>
 
+<h4 align="center">Frameworks & Libraries</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" /> &nbsp;
   <img src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET MAUI" /> &nbsp;
   <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="EF Core" /> &nbsp;
-  <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" /> &nbsp;
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> &nbsp;
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn" /> &nbsp;
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" /> &nbsp;
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+</p>
+
+<h4 align="center">Databases</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="Databases" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" /> &nbsp;
+  <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
+
+<h4 align="center">Tools & Platforms</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,linux,postman&theme=dark" alt="Tools" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger" />
+</p>
+
+<h4 align="center">Hardware & IoT</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" alt="Hardware" />
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/ESP8266-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP8266" />
 </p>
 
