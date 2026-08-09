@@ -60,7 +60,7 @@
 <h3 align="center">📊 GitHub Activity</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ashwin81006&show_icons=true&bg_color=0d1117&title_color=2ea043&text_color=c9d1d9&icon_color=2ea043&hide_border=true&include_all_commits=true" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ashwin81006&show_icons=true&bg_color=0d1117&title_color=2ea043&text_color=c9d1d9&icon_color=2ea043&hide_border=true&hide=commits" height="195" alt="GitHub Stats" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ashwin81006&layout=compact&bg_color=0d1117&title_color=2ea043&text_color=c9d1d9&hide_border=true" height="195" alt="Top Languages" />
 </p>
 
