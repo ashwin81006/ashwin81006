@@ -35,8 +35,7 @@
   <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="Databases" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" /> &nbsp;
-  <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
 </p>
 
 <h4 align="center">Tools & Platforms</h4>
