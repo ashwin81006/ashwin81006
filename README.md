@@ -77,13 +77,17 @@ I prefer learning by implementing, testing, debugging and figuring out why somet
   </a>
 </p>
 
-## 🌌 Contribution Explorer
+
+## 🌌 Contribution Universe
 
 <p align="center">
-  <a href="https://github.com/ashwin81006?tab=overview&from=2026-01-01&to=2026-12-31">
-    <img src="https://ghchart.rshah.org/2ea043/ashwin81006" alt="GitHub contribution heatmap — click to explore my GitHub activity" width="100%" />
-  </a>
+  <img
+    src="https://raw.githubusercontent.com/ashwin81006/ashwin81006/comet-graph/comet.svg"
+    alt="Animated GitHub contribution comet"
+    width="100%"
+  />
 </p>
+
 
 <p align="center">
   <a href="https://github.com/ashwin81006?tab=overview">Explore my GitHub activity →</a>
