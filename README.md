@@ -1,5 +1,3 @@
-# Hi, I'm Ashwin Siva 👋
-
 <div align="center">
 
 # Hi, I'm Ashwin Siva 👋
